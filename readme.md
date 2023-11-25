@@ -35,7 +35,3 @@ O SafeTrace utiliza o ESP32 e o sensor ultrassônico HC-SR04 para rastrear a dis
 ## Simulação do Projeto no Wokwi
 
 Acesse a [simulação no Wokwi](https://wokwi.com/projects/382284528343665665) para testar o projeto em um ambiente virtual.
-
----
-
-**Nota:** Insira o link correto para a simulação no espaço "insira_o_link_aqui". Certifique-se de que a simulação inclua o ESP32 e o sensor HC-SR04.
